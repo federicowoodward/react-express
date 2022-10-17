@@ -87,7 +87,8 @@ exports.agregarProductos = async (idProductos, idCarrito) => {
         }
     }))
     return resultado;
-}
+}  
+
 exports.borrarProductoPorId = (carritoID, productoID) => {
     const carritoIDx = carritos.findIndex(c => c.id == carritoID),
     itemIdx = carritoIDx !== -1 ? carritos[carritoIDx].productos.findIndex(i => i.id == productoID) : null;
