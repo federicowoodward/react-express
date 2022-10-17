@@ -1,0 +1,26 @@
+{
+	"productos": [
+		{
+			"timestamp": "16/10",
+			"nombre": "calculadora",
+			"descripcion": "calculadora casio",
+			"codigo": 444,
+			"foto": "url",
+			"precio": 2500,
+			"stock": 15,
+			"id": 1,
+			"timestampR": "4 2022-10-Su 18"
+		},
+		{
+			"nombre": "lapicera",
+			"descripcion": "bic azul",
+			"codigo": 121,
+			"foto": "url",
+			"precio": 50,
+			"stock": 15,
+			"id": 3,
+			"timestamp": "2022-10-Sun 18:12:10 pm",
+			"timestampR": "2 2022-10-Su 18"
+		}
+	]
+}

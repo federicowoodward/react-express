@@ -1,0 +1,13 @@
+.chat{
+  /* width: ; */
+  min-height: 50vh;
+  max-height:  50vh;
+  overflow: scroll;
+  border: 2px solid black;
+}
+.item {
+  background-color: red;
+  padding: 3px;
+  display: flex;
+  flex-direction: row;
+}

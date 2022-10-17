@@ -1,0 +1,32 @@
+.mensaje {
+    width: auto;
+    padding: 4px 0 4px 4px;
+    margin: 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+}
+p, h5 {
+    display: inline;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 00;
+    font-weight: normal;
+}
+.correo {
+    color: blue
+}
+.date p {
+    color: rgb(139, 36, 36);
+}
+.texto {
+    color: rgb(2, 39, 2);
+    font-family: italic;
+}
+strong {
+    color: black
+}
+h5, p, strong, .texto {
+    font-size: 20px;
+}

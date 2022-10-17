@@ -1,0 +1,21 @@
+{
+	"carritos": [
+		{
+			"timestamp": "2022-10-Sun 22:43:05 pm",
+			"productos": [
+				{
+					"nombre": "lapicera",
+					"descripcion": "bic azul",
+					"codigo": 121,
+					"foto": "url",
+					"precio": 50,
+					"stock": 15,
+					"id": 3,
+					"timestamp": "2022-10-Sun 18:12:10 pm",
+					"timestampR": "2 2022-10-Su 18"
+				}
+			],
+			"id": 1
+		}
+	]
+}
